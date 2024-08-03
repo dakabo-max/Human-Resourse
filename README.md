@@ -8,6 +8,8 @@
 - Excel
 
 ## Data Visualization - PowerBI
+![Screenshot 2024-08-03 021739](https://github.com/user-attachments/assets/ccde4c43-5e09-4a3c-97b2-a58895f7d3ba)
+
 
 ## Questions
 
